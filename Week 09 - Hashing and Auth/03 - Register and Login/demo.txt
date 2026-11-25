@@ -1,0 +1,2 @@
+alice,$2b$12$HsKY4SKgWUq1wOVZ/nyIAOAHPwQ8xiYS5yRLcmbYHR/HweWPxNmxq
+david,$2b$12$UoKEIwH.fWocSXSIRLGLwur6I4r/ihtp744ziaHRzOUqczbUph/aW
